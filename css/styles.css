@@ -1,0 +1,27 @@
+/* In this example, I have only one stylesheets. If you plan */
+/* for multiple stylesheets, make sure that you do not */
+/* repeat the same css rules. */
+
+
+/* ------------------ Global css rules -------------------- */
+
+/* This resets margin and padding for all html elements. */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* This sets css rules for the html document. /*
+/* Can be overwritten by more specific css rules. */
+:root {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+/* ---------------------------------------------------------*/
+
+
+/* ----------- Write your own CSS rules below ------------- */ 
+
